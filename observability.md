@@ -1,10 +1,13 @@
 ---
-description: 13%
+description: >-
+  18%  Understand LivenessProbes and ReadinessProbes• Understand container
+  logging• Understand how to monitor applications in Kubernetes• Understand
+  debugging in Kubernetes
 ---
 
-# Core Concepts
+# Observability
 
-## Understand Kubernetes API primitives
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -22,8 +25,6 @@ Once you're strong enough, save the world:
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
-
-## Create and configure basic Pods
 
 
 

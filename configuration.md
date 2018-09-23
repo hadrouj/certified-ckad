@@ -1,10 +1,13 @@
 ---
-description: 13%
+description: >-
+  18% • Understand ConfigMaps• Understand SecurityContexts• Define an
+  application’s resource requirements• Create & consume Secrets• Understand
+  ServiceAccounts
 ---
 
-# Core Concepts
+# Configuration
 
-## Understand Kubernetes API primitives
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -22,8 +25,6 @@ Once you're strong enough, save the world:
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
-
-## Create and configure basic Pods
 
 
 

@@ -1,10 +1,12 @@
 ---
-description: 13%
+description: >-
+  10% - Understand Multi-Container Pod design patterns(e.g. ambassador, adapter,
+  sidecare)
 ---
 
-# Core Concepts
+# Multi-Container Pods
 
-## Understand Kubernetes API primitives
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -22,8 +24,6 @@ Once you're strong enough, save the world:
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
-
-## Create and configure basic Pods
 
 
 
