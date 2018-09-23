@@ -1,12 +1,12 @@
 ---
-description: >-
-  10% - Understand Multi-Container Pod design patterns(e.g. ambassador, adapter,
-  sidecare)
+description: 10%
 ---
 
 # Multi-Container Pods
 
-## Getting Super Powers
+## Understand Multi-Container Pod design patterns
+
+### Ambassador
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -25,5 +25,7 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
+### Adapter
 
+### Sidecare
 

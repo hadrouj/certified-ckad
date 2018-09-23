@@ -1,13 +1,10 @@
 ---
-description: >-
-  18%  Understand LivenessProbes and ReadinessProbes• Understand container
-  logging• Understand how to monitor applications in Kubernetes• Understand
-  debugging in Kubernetes
+description: 18%
 ---
 
 # Observability
 
-## Getting Super Powers
+## Understand ServiceAccounts
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -26,5 +23,9 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
+## Understand container logging
 
+## Understand how to monitor applications in Kubernetes
+
+## Understand debugging in Kubernetes
 
