@@ -20,6 +20,10 @@
 * [Understand Deployments and how to perform rollbacks](pod-design-1/understand-deployments-and-how-to-perform-rollbacks.md)
 * [Understand Jobs and CronJobs](pod-design-1/understand-jobs-and-cronjobs.md)
 
+## State Persistence
+
+* [Understand PersistentVolumeClaims for storage Super Powers](state-persistence-1/state-persistence.md)
+
 ## Configuration
 
 * [Understand ConfigMaps](configuration-1/understand-configmaps.md)
@@ -37,10 +41,6 @@
 
 ## Services & Networking
 
-* [Understand Services](services-and-networking-1/services-and-networking.md)
-* [Demonstrate basic understanding of NetworkPolicies](services-and-networking-1/demonstrate-basic-understanding-of-networkpolicies.md)
-
-## State Persistence
-
-* [Understand PersistentVolumeClaims for storage Super Powers](state-persistence-1/state-persistence.md)
+* [Understand Services](services-and-networking/services-and-networking.md)
+* [Demonstrate basic understanding of NetworkPolicies](services-and-networking/demonstrate-basic-understanding-of-networkpolicies.md)
 
