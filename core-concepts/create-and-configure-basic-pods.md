@@ -1,10 +1,6 @@
----
-description: 18%
----
+# Create and configure basic Pods
 
-# Configuration
-
-## Understand ConfigMaps
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -23,11 +19,5 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-## Define an application’s resource requirements
 
-## Understand SecurityContexts
-
-## Create & consume Secrets
-
-## Understand ServiceAccounts
 
