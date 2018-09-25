@@ -2,9 +2,7 @@
 description: 8%
 ---
 
-# State Persistence
-
-## Understand PersistentVolumeClaims for storage Super Powers
+# Understand PersistentVolumeClaims for storage Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
