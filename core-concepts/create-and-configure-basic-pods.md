@@ -26,24 +26,24 @@ kubectl run myPod --image=nginx:latest --port=8080
 
 {% tabs %}
 {% tab title="Question 3" %}
-Get the address IP of pod named myPod.
+Create a Pod with container image that corresponds to version `1.14.0` of `nginx`
 {% endtab %}
 
 {% tab title="Answer 3" %}
 ```text
-kubectl describe pod/myPod | grep IP
+kubectl run myPod --image=nginx:1.14.0
 ```
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Question 4" %}
-Create a Pod with container image that corresponds to version `1.14.0` of `nginx`
+Get the address IP of pod named myPod.
 {% endtab %}
 
 {% tab title="Answer 4" %}
 ```text
-kubectl run myPod --image=nginx:1.14.0
+kubectl describe pod/myPod | grep IP
 ```
 {% endtab %}
 {% endtabs %}
